@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.laurettefugain.org	TRUE	/	FALSE	1999999999	o2s-chl	81582ae6153cb501e8a71ed20d3da71d
+www.laurettefugain.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+
